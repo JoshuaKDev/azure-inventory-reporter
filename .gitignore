@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Generated Output Files
+output/*.csv
+output/*.md
+
+# Logs
+*.log
