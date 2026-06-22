@@ -175,7 +175,8 @@ _Add screenshot here_
 
 ### JSON Export
 
-_Add screenshot here_
+<img width="407" height="743" alt="Screenshot 2026-06-21 at 9 38 32 PM" src="https://github.com/user-attachments/assets/7a0e40ea-f2db-4009-890c-f1eff6eae79e" />
+
 
 ### CSV Export
 
